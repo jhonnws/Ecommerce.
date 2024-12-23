@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "mybackend"
+    },
+    {
+      "path": "frontend-js"
+    },
+    {
+      "path": "frontend_admin_tauri"
+    }
+  ],
+  "settings": {}
+}
